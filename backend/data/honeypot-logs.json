@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-01-12T14:21:23.626Z",
+    "ip": "::1",
+    "method": "GET",
+    "path": "/api/admin/config",
+    "headers": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+    "query": {}
+  },
+  {
+    "timestamp": "2026-01-12T14:21:25.024Z",
+    "ip": "::1",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "headers": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+    "query": {}
+  }
+]
